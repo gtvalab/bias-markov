@@ -1,0 +1,14 @@
+PID,Condition (role / size),# Interactions,# Clean Interactions,Accuracy,Notes
+P1,Role (2),671,349,0.47,
+P2,Size (1),1166,687,0.47,
+P3,Role (2),1805,587,0.64,
+P4,Size (1),879,445,0.57,
+P5,Size (1),1032,615,0.55,
+P6,Size (1),1317,685,0.55,
+P7,Role (2),493,266,0.43,
+P8,Size (1),1074,602,0.76,
+P9,Role (2),809,425,0.5,
+P10,Role (2),1482,708,0.43,
+P11,Size (1),752,410,0.37,
+P12,Role (2),1464,668,0.7753,didn't classify all points
+P13,Size (1),617,406,0.4536,didn't classify all points
